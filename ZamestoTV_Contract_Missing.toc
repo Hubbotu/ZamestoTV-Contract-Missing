@@ -1,0 +1,10 @@
+## Interface: 110007
+## Title: ZamestoTV Contract Missing
+## Title-ruRU: ZamestoTV Отсутствие контракта
+## Notes: Warns if there is no contract for you in the Dragonflight add-on
+## Notes-ruRU: Предупреждает если на вас отсутствует контракт в дополнении Dragonflight
+## Author: ZamestoTV
+## IconTexture: Interface\AddOns\ZamestoTV_Contract_Missing\Icons\goblin
+## Version: 1.0.2
+
+Contract_Missing.lua
